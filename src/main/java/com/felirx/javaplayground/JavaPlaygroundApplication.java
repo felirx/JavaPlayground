@@ -1,4 +1,4 @@
-package com.felirx.JavaPlayground;
+package com.felirx.javaplayground;
 
 import java.util.Arrays;
 

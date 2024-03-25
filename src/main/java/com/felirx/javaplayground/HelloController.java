@@ -1,4 +1,4 @@
-package com.felirx.JavaPlayground;
+package com.felirx.javaplayground;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
